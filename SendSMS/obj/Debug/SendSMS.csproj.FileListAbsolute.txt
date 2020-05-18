@@ -1,0 +1,8 @@
+G:\JAVED DATA\PROJECTS\DOT NET\SendSMS\SendSMS\obj\Debug\ResolveAssemblyReference.cache
+G:\JAVED DATA\PROJECTS\DOT NET\SendSMS\SendSMS\obj\Debug\SendSMS.Form1.resources
+G:\JAVED DATA\PROJECTS\DOT NET\SendSMS\SendSMS\obj\Debug\SendSMS.Properties.Resources.resources
+G:\JAVED DATA\PROJECTS\DOT NET\SendSMS\SendSMS\obj\Debug\SendSMS.csproj.GenerateResource.Cache
+G:\JAVED DATA\PROJECTS\DOT NET\SendSMS\SendSMS\bin\Debug\SendSMS.exe
+G:\JAVED DATA\PROJECTS\DOT NET\SendSMS\SendSMS\bin\Debug\SendSMS.pdb
+G:\JAVED DATA\PROJECTS\DOT NET\SendSMS\SendSMS\obj\Debug\SendSMS.exe
+G:\JAVED DATA\PROJECTS\DOT NET\SendSMS\SendSMS\obj\Debug\SendSMS.pdb
