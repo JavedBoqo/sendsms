@@ -25,7 +25,7 @@ namespace SendSMS
                 {
                     string userName = "javi_hunzai@hotmail.com";
                     string userPassword = "emxe8";
-                    string msgRecepient = "923445520975";
+                    string msgRecepient = "MOBILE-NUMBER";
                     
                     string msgText = "Hello, SMS from MountainShop.pk";
                     string url = "http://smsc.vianett.no/v3/send.ashx?" +
